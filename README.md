@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!! I'm Saksham Adhikari, a passionate web developer and graphic designer. I love creating beautiful and functional<br>
+Hey!! I'm Saksham Adhikari, a passionate web developer and graphic designer. I love creating beautiful and functional.<br>
 
 
 ## 🌐 Socials:
