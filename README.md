@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on
+👋 Hey!! I'm Saksham Adhikari, a passionate web developer and graphic designer.
 
 
 ## 🌐 Socials:
