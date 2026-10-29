@@ -15,9 +15,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/heyitslumi/heyitslumi/main/assets/divider.svg" width="100%" alt="divider" />
-</div>
+
 
 <br>
 
